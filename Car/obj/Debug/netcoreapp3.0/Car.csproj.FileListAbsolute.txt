@@ -1,0 +1,11 @@
+C:\Users\Reio\source\repos\Loomad\Car\bin\Debug\netcoreapp3.0\Car.exe
+C:\Users\Reio\source\repos\Loomad\Car\bin\Debug\netcoreapp3.0\Car.deps.json
+C:\Users\Reio\source\repos\Loomad\Car\bin\Debug\netcoreapp3.0\Car.runtimeconfig.json
+C:\Users\Reio\source\repos\Loomad\Car\bin\Debug\netcoreapp3.0\Car.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\Loomad\Car\bin\Debug\netcoreapp3.0\Car.dll
+C:\Users\Reio\source\repos\Loomad\Car\bin\Debug\netcoreapp3.0\Car.pdb
+C:\Users\Reio\source\repos\Loomad\Car\obj\Debug\netcoreapp3.0\Car.csprojAssemblyReference.cache
+C:\Users\Reio\source\repos\Loomad\Car\obj\Debug\netcoreapp3.0\Car.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\Loomad\Car\obj\Debug\netcoreapp3.0\Car.AssemblyInfo.cs
+C:\Users\Reio\source\repos\Loomad\Car\obj\Debug\netcoreapp3.0\Car.dll
+C:\Users\Reio\source\repos\Loomad\Car\obj\Debug\netcoreapp3.0\Car.pdb

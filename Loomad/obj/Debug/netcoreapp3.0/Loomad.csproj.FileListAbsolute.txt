@@ -1,0 +1,11 @@
+C:\Users\Reio\source\repos\Loomad\Loomad\bin\Debug\netcoreapp3.0\Loomad.exe
+C:\Users\Reio\source\repos\Loomad\Loomad\bin\Debug\netcoreapp3.0\Loomad.deps.json
+C:\Users\Reio\source\repos\Loomad\Loomad\bin\Debug\netcoreapp3.0\Loomad.runtimeconfig.json
+C:\Users\Reio\source\repos\Loomad\Loomad\bin\Debug\netcoreapp3.0\Loomad.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\Loomad\Loomad\bin\Debug\netcoreapp3.0\Loomad.dll
+C:\Users\Reio\source\repos\Loomad\Loomad\bin\Debug\netcoreapp3.0\Loomad.pdb
+C:\Users\Reio\source\repos\Loomad\Loomad\obj\Debug\netcoreapp3.0\Loomad.csprojAssemblyReference.cache
+C:\Users\Reio\source\repos\Loomad\Loomad\obj\Debug\netcoreapp3.0\Loomad.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\Loomad\Loomad\obj\Debug\netcoreapp3.0\Loomad.AssemblyInfo.cs
+C:\Users\Reio\source\repos\Loomad\Loomad\obj\Debug\netcoreapp3.0\Loomad.dll
+C:\Users\Reio\source\repos\Loomad\Loomad\obj\Debug\netcoreapp3.0\Loomad.pdb
